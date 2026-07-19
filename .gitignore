@@ -1,0 +1,10 @@
+# Local training artifacts
+data/
+best.pt
+
+# Notebook state
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.pyc
